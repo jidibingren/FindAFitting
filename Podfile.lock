@@ -1,0 +1,82 @@
+PODS:
+  - AFNetworking (3.1.0):
+    - AFNetworking/NSURLSession (= 3.1.0)
+    - AFNetworking/Reachability (= 3.1.0)
+    - AFNetworking/Security (= 3.1.0)
+    - AFNetworking/Serialization (= 3.1.0)
+    - AFNetworking/UIKit (= 3.1.0)
+  - AFNetworking/NSURLSession (3.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.1.0)
+  - AFNetworking/Security (3.1.0)
+  - AFNetworking/Serialization (3.1.0)
+  - AFNetworking/UIKit (3.1.0):
+    - AFNetworking/NSURLSession
+  - BaiduMapKit (2.10.2)
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - CSLinearLayoutView (1.0)
+  - DCKeyValueObjectMapping (1.5)
+  - JDBRDropdownMenu (0.1.1):
+    - DCKeyValueObjectMapping (~> 1.5)
+  - JKSearchBar (0.0.2)
+  - KVOController (1.1.0)
+  - Masonry (0.6.4)
+  - MBProgressHUD (0.9.2)
+  - MJRefresh (3.1.0)
+  - RDVTabBarController (1.1.9)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - TPKeyboardAvoiding (1.2.11)
+  - WMPageController (1.5.3)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.1.0)
+  - BaiduMapKit (~> 2.10.2)
+  - BlocksKit (~> 2.2.5)
+  - CSLinearLayoutView (~> 1.0)
+  - JDBRDropdownMenu (~> 0.1.0)
+  - JKSearchBar (~> 0.0.1)
+  - KVOController (~> 1.1.0)
+  - Masonry (~> 0.6.4)
+  - MBProgressHUD (~> 0.9.1)
+  - MJRefresh (~> 3.1.0)
+  - RDVTabBarController (~> 1.1.9)
+  - SDWebImage (~> 3.7.2)
+  - TPKeyboardAvoiding (~> 1.2.6)
+  - WMPageController (~> 1.5.0)
+
+SPEC CHECKSUMS:
+  AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
+  BaiduMapKit: b1706a062597c70ec62a0cca93212cba1d3017e1
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  CSLinearLayoutView: ce5a4b49267e0a5820203659045f42c0d1faab64
+  DCKeyValueObjectMapping: c2eb5a6529da100b2e49ef6a599663578051f077
+  JDBRDropdownMenu: 7c5d8711b55dc26851d5cb6aa5c3828bfddd29d1
+  JKSearchBar: cac390689f3ba89f1b7c1179ca407466c2f5a4af
+  KVOController: 321b5fc59300fcaabd42c0f679baa7a27efbb2fd
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJRefresh: 743e6404967d1c2c688472ea3ecfde247d872db4
+  RDVTabBarController: 67794f7a7a37f8e32f046f85ac67d06ab92d624a
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  TPKeyboardAvoiding: e5ce146b313de063957bfa75a13f1e9b0ff18ab7
+  WMPageController: 3a99a0d92ed5e4a8f6510a2cd1120fdb077ff588
+
+COCOAPODS: 0.39.0
